@@ -88,7 +88,7 @@ pip install tensorflow
 
 Classifies disease from a single uploaded image using the trained CNN model.
 
-🔗 [Sample model weights (Google Drive)](https://drive.google.com/file/d/1VuoScpUIpkugshXDCpRj5RnPwURXQL7o/view?usp=sharing)
+🔗 [Sample model weights (Google Drive)]([https://drive.google.com/file/d/1VuoScpUIpkugshXDCpRj5RnPwURXQL7o/view?usp=sharing](https://drive.google.com/file/d/1-u6p6A3uL8XioF4PW1eB9EajV01dQa9f/view?usp=sharing))
 
 ---
 
